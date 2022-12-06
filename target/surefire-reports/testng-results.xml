@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-19T07:49:13 IST" name="Suite1" finished-at="2022-10-19T07:49:38 IST" duration-ms="25266">
+    <groups>
+    </groups>
+    <test started-at="2022-10-19T07:49:13 IST" name="Regression1" finished-at="2022-10-19T07:49:38 IST" duration-ms="25266">
+      <class name="testsPackage.SampleTest">
+        <test-method is-config="true" signature="setupBrowser()[pri:0, instance:testsPackage.SampleTest@6340e5f0]" started-at="2022-10-19T07:49:13 IST" name="setupBrowser" finished-at="2022-10-19T07:49:19 IST" duration-ms="6026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method is-config="true" signature="setupBrowser()[pri:0, instance:testsPackage.SampleTest@6340e5f0]" started-at="2022-10-19T07:49:13 IST" name="setupBrowser" finished-at="2022-10-19T07:49:20 IST" duration-ms="6747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method signature="loginAndCheckout()[pri:0, instance:testsPackage.SampleTest@6340e5f0]" started-at="2022-10-19T07:49:19 IST" name="loginAndCheckout" finished-at="2022-10-19T07:49:38 IST" duration-ms="18734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAndCheckout -->
+        <test-method signature="guestCheckout()[pri:0, instance:testsPackage.SampleTest@6340e5f0]" started-at="2022-10-19T07:49:20 IST" name="guestCheckout" finished-at="2022-10-19T07:49:36 IST" duration-ms="16722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guestCheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testsPackage.SampleTest@6340e5f0]" started-at="2022-10-19T07:49:36 IST" name="tearDown" finished-at="2022-10-19T07:49:37 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testsPackage.SampleTest@6340e5f0]" started-at="2022-10-19T07:49:38 IST" name="tearDown" finished-at="2022-10-19T07:49:38 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testsPackage.SampleTest -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
